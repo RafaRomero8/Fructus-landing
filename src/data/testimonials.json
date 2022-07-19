@@ -1,0 +1,42 @@
+[
+    {
+        "id": 1,
+        "img": "assets/img/people/Rodizio.png",
+        "name": "Herlinda Quiroga",
+        "desig": "Rodizio CD",
+        "state":"Carmen, Campeche.",
+        "comment": "Un servicio que se adecua a la necesidad del cliente oportunamente."
+    },
+    {
+        "id": 2,
+        "img": "assets/img/people/logo@2x.png",
+        "name": "Miguel Santos",
+        "desig": "Director de compras - Granjas RYC Alimentos",
+        "state":"Puebla, Puebla",
+        "comment": "Hemos diversificado nuestras opciones de negocio, obteniendo mayor rentabilidad y fidelidad por parte de los consumidores que nos favorecen a diario con su preferencia. Estamos contentos."
+    },
+    {
+        "id": 3,
+        "img": "assets/img/people/hospital-angeles-mexico.png",
+        "name": "José Caravaglia",
+        "desig": "Dirección de compras - Hospital Ángeles",
+        "state":"Villahermosa, Tabasco",
+        "comment": "Son una empresa en crecimiento, con mejora continua constante."
+    },
+    {
+        "id": 4,
+        "img": "assets/img/people/carnemart.jpg",
+        "name": "Héctor Tirado",
+        "desig": "Carne Mart",
+        "state":"Chihuahua, Chihuahua",
+        "comment": "Excelente servicio, siempre dispuestos."
+    },
+    {
+        "id": 5,
+        "img": "assets/img/people/Buenos alimentos - logo.jpg",
+        "name": "Hugo Quiroga",
+        "desig": "Director Operativo - Bueno Alimentos",
+        "state":"Monterrey, Nuevo León",
+        "comment": "Excelente servicio y profesionalismo."
+    }
+]

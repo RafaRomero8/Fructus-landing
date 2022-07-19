@@ -1,0 +1,13 @@
+{
+    "sucursales":[
+        {"sucursal":["TIJUANA"]},
+        {"sucursal":["LA PAZ","LA PAZ COLOSIO","LOS CABOS","LOS CABOS LEONA","SAN JOSE DEL CABOS","SAN JOSE FORJADORES"]},
+        {"sucursal":["CIUDAD DEL CARMEN"]},
+        {"sucursal":["EJE 3","GAM VICTORIA"]},
+        {"sucursal":["TUXTLA GUTIÉRREZ"]},
+        {"sucursal":["CAMARGO","JIMENEZ"]},
+        {"sucursal":["CHAVEZ","FRONTERA"]}
+    ]
+} 
+
+

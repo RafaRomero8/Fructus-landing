@@ -1,0 +1,19 @@
+[
+    {
+        "id": 1,
+        "linkText": "Inicio",
+        "link": "/"
+    },
+    {
+        "id": 2,
+        "link": "/about",
+        "linkText": "Sobre Nosotros"
+
+    },
+    {
+        "id": 3,
+        "link": "/aboutus",
+        "linkText": "Quiénes Somos"
+
+    }
+]

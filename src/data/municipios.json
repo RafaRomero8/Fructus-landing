@@ -1,0 +1,46 @@
+{
+    "citys": [
+        {"city":"BAJA CALIFORNIA NORTE","sucursal":["TIJUANA"]},
+        {"city":"BAJA CALIFORNIA SUR","sucursal":["LA PAZ","LA PAZ COLOSIO","LOS CABOS","LOS CABOS LEONA","SAN JOSE DEL CABOS","SAN JOSE FORJADORES"]},
+        {"city":"CAMPECHE","sucursal":["CIUDAD DEL CARMEN"]},
+        {"city":"CDMX","sucursal":["EJE 3","GAM VICTORIA"]},
+        {"city":"CHIAPAS","sucursal":["TUXTLA GUTIÉRREZ"]},
+        {"city":"CHIHUAHUA","sucursal":["CAMARGO","JIMENEZ"]},
+        {"city":"COAHUILA","sucursal":["CHAVEZ","FRONTERA"]},
+        {"city":"GUERRERO","sucursal":["ACAPULCO","CHIPALCINGO"]},
+        {"city":"GUADALAJARA","sucursal":["JALISCO"]},
+        {"city":"MICHOACÁN","sucursal":["SAHAUAYO"]},
+        {"city":"MONTERREY","sucursal":["ESTRELLA","PUEBLO NUEVO"]},
+        {"city":"MORELOS","sucursal":["CUAUTLA","CUERNAVACA PLAN DE AYALA","DOMINGO CUERNAVACA","TEMIXCO"]},
+        {"city":"OAXACA","sucursal":["OAXACA"]},
+        {"city":"PUEBLA","sucursal":["PUEBLA"]},
+        {"city":"QUERÉTARO","sucursal":["QUERÉTARO"]},
+        {"city":"QUINTANA ROO","sucursal":["BUGAMBILIAS CANCÚN","CHETUMAL","COZUMEL","KABAH CANCUN","LOS TUNELES CANCÚN","NICHUPTE CANCUN","PLAYA DEL CARMEN","RANCHO VIEJO","TULUM"]},
+        {"city":"SAN LUIS POTOSI","sucursal":["SAN LUIS POTOSI"]},
+        {"city":"SINALOA","sucursal":["BARRANCOS","CULIACAN","GUASAVE","MAZATLAN LEYVA","MAZATLAN MUNICH","MOCHIS CENTRO","NAVOLATO","RAFAEL BUELNA"]},
+        {"city":"SONORA","sucursal":["AGUA PRIETA","CABORCA","GUAYMAS","HUATABAMPO","JALISCO","OBREGON MISIONES","PIEDRAS NEGRAS","NOGALES"]},
+        {"city":"TABASCO","sucursal":["CARDENAS","COMALCALCO","MACUSPANA","MERCADO DE TAMULTE","VILLAHERMOSA PINO SUÁREZ","VILLAHERMOSA USUMACINTA"]},
+        {"city":"TAMAULIPAS","sucursal":["ACUÑA LIBRAMIENTO","CENTRO REYNOSA","LOMAS REYNOSA","NUEVO LAREDO SAMANO","REYNOSA","RIO BRAVO","SAN FERNANDO REYNOSA"]},
+        {"city":"TLAXCALA","sucursal":["APIZACO"]},
+        {"city":"VERACRUZ","sucursal":["ASTILLEROS","COATZACOALCOS","MINATITLAN","PUERTO","XALAPA"]}
+    ]
+    
+} 
+
+
+
+
+   
+    
+    
+    
+    
+
+
+
+
+   
+    
+    
+    
+    

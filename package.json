@@ -1,0 +1,74 @@
+{
+  "name": "FructusVia",
+  "homepage":"https://RafaRomero8.github.io/Fructus",
+  "version": "0.1.0",
+  "private": true,
+  "main": "lib/index",
+  "types": "lib/index",
+  "dependencies": {
+    "@testing-library/jest-dom": "^5.11.9",
+    "@testing-library/react": "^11.2.3",
+    "@testing-library/user-event": "^12.6.0",
+    "axios": "^0.27.2",
+    "bootstrap": "^4.5.3",
+    "chokidar": "^3.5.3",
+    "classnames": "^2.2.6",
+    "dotenv": "^16.0.1",
+    "framer-motion": "^6.3.3",
+    "jquery": "^3.5.1",
+    "leaflet": "^1.7.1",
+    "leaflet.markercluster": "^1.4.1",
+    "magnific-popup": "^1.1.0",
+    "react": "^17.0.2",
+    "react-bootstrap": "^1.4.3",
+    "react-dom": "^17.0.1",
+    "react-google-recaptcha-v3": "^1.9.8",
+    "react-isotope": "^1.0.7",
+    "react-leaflet": "^3.0.5",
+    "react-magnific-popup": "^1.0.1",
+    "react-masonry-component": "^6.2.1",
+    "react-meta-tags": "^1.0.1",
+    "react-notifications": "^1.7.3",
+    "react-perfect-scrollbar": "^1.5.8",
+    "react-redux": "^7.2.2",
+    "react-router-dom": "^5.2.0",
+    "react-scripts": "4.0.1",
+    "react-scroll": "^1.8.1",
+    "react-scroll-to-top": "^1.0.5",
+    "react-slick": "^0.27.14",
+    "react-toastify": "^9.0.5",
+    "redux": "^4.0.5",
+    "slick-carousel": "^1.8.1",
+    "web-vitals": "^0.2.4"
+  },
+  "scripts": {
+    "start": "react-scripts start",
+    "build": "react-scripts build",
+    "test": "react-scripts test",
+    "eject": "react-scripts eject",
+    "predeploy": "npm run build",
+    "deploy": "gh-pages -d build"
+  },
+  "eslintConfig": {
+    "extends": [
+      "react-app",
+      "react-app/jest"
+    ]
+  },
+  "browserslist": {
+    "production": [
+      ">0.2%",
+      "not dead",
+      "not op_mini all"
+    ],
+    "development": [
+      "last 1 chrome version",
+      "last 1 firefox version",
+      "last 1 safari version"
+    ]
+  },
+  "devDependencies": {
+    "@types/leaflet": "^1.5.21",
+    "gh-pages": "^4.0.0"
+  }
+}
